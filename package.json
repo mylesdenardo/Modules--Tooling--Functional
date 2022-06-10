@@ -1,0 +1,25 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mylesdenardo/Modules--Tooling--Functional.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mylesdenardo/Modules--Tooling--Functional/issues"
+  },
+  "homepage": "https://github.com/mylesdenardo/Modules--Tooling--Functional#readme",
+  "dependencies": {
+    "leaflet": "^1.8.0",
+    "lodash-es": "^4.17.21"
+  },
+  "devDependencies": {
+    "parcel": "^1.12.3"
+  }
+}
